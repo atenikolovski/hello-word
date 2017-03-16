@@ -1,2 +1,6 @@
 # hello-word
-my first repository
+Hi,
+
+Some text, some text, some text, seems interesting.
+
+First change.
