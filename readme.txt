@@ -1,1 +1,1 @@
-asfas
+izmeneto readme
