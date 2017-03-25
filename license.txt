@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 haha11 
 aaaaaaaaaaaa
+=======
+aa
+>>>>>>> 8aec36124d8a282fad740b50ebef85824f5ed458
